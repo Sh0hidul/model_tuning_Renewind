@@ -29,3 +29,4 @@ The objective is to build various classification models, tune them, and find the
 - Test.csv - To be used only for testing the performance of the final best model.
 - Both the datasets consist of 40 predictor variables and 1 target variable
 
+###To see the details of the code <a href = 'https://github.com/Sh0hidul/model_tuning_Renewind/blob/main/MT_Project_ReneWind.ipynb'> please click here</a>
